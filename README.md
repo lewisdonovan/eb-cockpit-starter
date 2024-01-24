@@ -1,8 +1,8 @@
-# Elastic Beanstalk starter for Cockpit CMS
+# 🌱 Elastic Beanstalk starter for Cockpit CMS
 
 Deploying [Cockpit CMS](https://getcockpit.com/) on [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) is a real pain in the backside, so I made a quick starter with Docker.
 
-## TL;DR Quickstart
+## 🚀 TL;DR Quickstart
 
 1. Clone the repo
 	```git
@@ -21,7 +21,7 @@ Deploying [Cockpit CMS](https://getcockpit.com/) on [AWS Elastic Beanstalk](http
 	eb deploy
 	```
 
-## Custom config
+## ⚙️ Custom config
 
 The repo provides a `.env` file with variables for all the settings in [Cockpit config](https://getcockpit.com/documentation/core/quickstart/configuration). You can uncomment and edit them to suit your needs.
 
