@@ -2,7 +2,7 @@
 
 Deploying [Cockpit CMS](https://getcockpit.com/) on [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) is a real pain in the backside, so I made a quick starter with Docker.
 
-## 🚀 TL;DR Quickstart
+## 🚀 Quickstart
 
 1. Clone the repo
 	```git
